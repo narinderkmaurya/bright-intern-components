@@ -44,7 +44,7 @@ const SecondPara = () => {
                 <Image src={green} alt="green" />
             </div>
             <p className={` ${medium.className} text-[1.25rem] text-[#544D49] leading-[1.7rem]`}>
-                At BrightIntern, we're on a mission to empower students to realize their full coding <br />
+                At BrightIntern, we&apos;re on a mission to empower students to realize their full coding <br />
                 potential and seize the best internship opportunities available. Through our innovative <br />
                 platform, students can harness the power of Codeships to showcase their skills, stand <br />
                 out to top employers, and secure referrals to their dream companies.
